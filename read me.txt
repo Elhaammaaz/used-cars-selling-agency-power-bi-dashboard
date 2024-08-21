@@ -1,0 +1,7 @@
+This dashboard is designed to help a used car selling agency make informed decisions by visualizing key metrics such as Brand, Model, Body Type, Transmission, Year, Fuel Type, Engine Capacity, Kilometers Driven, Color, City, and Price.
+🔍 What makes this dashboard powerful?
+Price Analysis: The dashboard provides a detailed breakdown of the average price by body type, fuel type, transmission, brand, and city. For example, SUVs and Microbuses have the highest average prices, while vehicles using electric fuel command the highest prices in the market.
+Inventory Insights: The cards at the top of the dashboard summarize the total number of cars, the number of cities where these cars are available, the average kilometers driven, the number of models, and the average price. These metrics give a quick snapshot of the agency's inventory and market coverage.
+Market Trends: The price by year visualization shows how car prices have evolved over time, indicating market trends and helping to predict future price movements.
+Operational Efficiency: With insights into the average price by kilometers driven, the agency can better assess the condition and market value of their inventory.
+By turning raw data into actionable insights, this dashboard empowers the agency to make data-driven decisions that enhance profitability and customer satisfaction.
